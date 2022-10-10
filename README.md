@@ -3,3 +3,4 @@ este taller esta pensado
 ### Aqui veremos
 - introduccion
 - creacion
+- manipulacion
